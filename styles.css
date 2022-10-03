@@ -1,0 +1,22 @@
+body {
+  background: #333 !important;
+}
+form{
+    margin-top: -80px;
+}
+.card-form {
+  margin-top: 150px;
+  background: rgb(73 73 73);
+}
+
+.card {
+  width: 80%;
+  /* margin-top: -70px; */
+  transform: translateY(-50%);
+}
+
+@media screen and (min-width: 750px) {
+  .container {
+    max-width: 500px !important;
+  }
+}
